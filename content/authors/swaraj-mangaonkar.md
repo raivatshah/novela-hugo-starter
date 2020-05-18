@@ -2,7 +2,7 @@
 avatar = ""
 bio = ""
 draft = true
-featured = false
+featured = true
 social = []
 title = "Swaraj Mangaonkar"
 
