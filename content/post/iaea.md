@@ -1,7 +1,6 @@
 +++
 authors = []
 date = ""
-draft = true
 excerpt = ""
 hero = "/images/iaea-flag.jpg"
 timeToRead = 0
