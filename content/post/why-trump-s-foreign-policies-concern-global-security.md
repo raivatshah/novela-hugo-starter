@@ -1,6 +1,6 @@
 +++
 authors = []
-date = ""
+date = 2018-10-22T18:30:00Z
 draft = true
 excerpt = "With the increasing aggression from Russia to harsh policies towards it allies, the United States has increasingly begun to isolate itself from the world stage."
 hero = ""
