@@ -1,7 +1,6 @@
 +++
 authors = []
 date = 2018-05-29T18:30:00Z
-draft = true
 excerpt = "This cold war isn’t about dominating the world, but rather, having an influence in the region. That region, being the middle east."
 hero = "/images/nationalfahneniransundsaudi-arabiens.jpg"
 timeToRead = 0
