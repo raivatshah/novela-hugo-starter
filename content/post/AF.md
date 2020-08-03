@@ -1,11 +1,10 @@
 +++
 authors = []
-date = ""
-draft = true
+date = 2017-06-09T18:30:00Z
 excerpt = ""
 hero = ""
-timeToRead = 0
-title = ""
+timeToRead = 10
+title = "Forgotten Conflicts of the African continent. A summary"
 
 +++
 Here's the scenario. Something happens in western countries, there are hundreds of thousands of social media posts condemning the incident, a snap-story on snap chat that shows what’s happening on the ground, and all the media outlets and newspapers cover the whole issue. So far from the media, we know about the bombings done by ISIS, the situation in Syria and Iraq, and other incidents that occur in the more developed and stable part of the world. But what about the places we barely hear about? Why isn't the media covering such incidents and issues that are impacting the lives of people in that region? This post will give you a brief summary of all the major conflicts occurring in Africa. It is to be noted that Africa has a history of complicated conflicts and some of these conflicts are because of a previous one. If required, a separate post will cover everything. But for now, here’s the summary.
