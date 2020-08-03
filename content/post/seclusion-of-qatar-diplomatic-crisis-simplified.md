@@ -2,7 +2,7 @@
 authors = []
 date = 2017-07-09T18:30:00Z
 excerpt = ""
-hero = ""
+hero = "/images/qatar-2.jpg"
 timeToRead = 0
 title = "Seclusion of Qatar; Diplomatic Crisis Simplified"
 
