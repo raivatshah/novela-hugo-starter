@@ -2,7 +2,7 @@
 authors = []
 date = 2017-05-27T18:30:00Z
 excerpt = ""
-hero = ""
+hero = "/images/images.jpeg"
 timeToRead = 0
 title = "The Most Reclusive Nation on the Planet. North Korea Simplified"
 
