@@ -1,7 +1,7 @@
 ---
 hero:
   heading: Welcome to World News Simplified!
-  maxWidthPX: "600"
+  maxWidthPX: "650"
 seo:
   image: "/images/final-logo.png"
 
