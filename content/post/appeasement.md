@@ -1,6 +1,6 @@
 +++
 authors = []
-date = ""
+date = 2019-01-07T18:30:00Z
 excerpt = ""
 hero = "/images/1-fmf6k4lo6xt7vdhr6rr4ow.jpeg"
 timeToRead = 0
