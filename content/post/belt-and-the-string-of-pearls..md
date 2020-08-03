@@ -1,7 +1,6 @@
 +++
 authors = []
 date = ""
-draft = true
 excerpt = ""
 hero = "/images/chinese-navy.jpg"
 timeToRead = 0
