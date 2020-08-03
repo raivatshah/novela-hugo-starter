@@ -12,7 +12,7 @@ Forty-Four years, that's how long the United Kingdom has been a member of the Eu
 
 ### Reasons to leave the European Union
 
-![](/images/brexit-2.jpg "Source: http://www.politico.eu/interactive/brexit-european-union-referendum-commission-david-cameron-leave-cartoons-draw-brexit-divorce/")
+![](/images/brexit-2.jpg "Source: https://flipboard.com/@KyleMilliner#")
 
 Benefits of being in the EU are immigration and business transactions among other things can be done easily relative to other countries. That is, a French citizen can live in the UK and can work in the UK without any visa. Similarly business does not need to pay tariffs for cross-border trading which increase trade as well. However, this also comes at a disadvantage. Having a central bank that governs the flow of money for 28 nation's means that the countries who have adopted the Euro cannot have drastic changes in their economic policies. Fortunately, the UK did not adopt the Euro. But still, needs to send 350 million pounds (it comes down to 120 million pounds due to rebates and money it receives from the EU). The UKIP (United Kingdom Independent Parties) have used this a lot in their campaigns to persuade the UK citizens to join their campaign of leaving the EU.
 
@@ -26,7 +26,7 @@ _The reasons to leave the EU are simple. The UK wants:_
 
 ### Post-Brexit and Snap election
 
-![](/images/brexit-1.jpg)
+![](/images/brexit-1.jpg "Source: http://www.politico.eu/interactive/brexit-european-union-referendum-commission-david-cameron-leave-cartoons-draw-brexit-divorce/")
 
 After the referendum results, the pound fell by 10% against the dollar. The then Prime Minister David Cameroon stepped down from his position because he was against leaving the EU and stated: "I think the country requires fresh leadership to take it in this direction". Following his resignation, Theresa May stepped to become the new Prime Minister. She is a firm believer in Brexit and on March 29, she triggered Article 50.
 
@@ -40,7 +40,7 @@ In order to have a strong hand while going into the negotiations with the EU, Pr
 
 There are various ways that the UK can leave the EU. They are however been loosely categorised as Soft Brexit and Hard Brexit.
 
-![](/images/brexit-4.jpg)
+![](/images/brexit-4.jpg "Source: http://www.karikatura.lt/hard-brexit-vs-soft-brexit/ ")
 
 A Hard Brexit, which many of the leave voters want, is for Britain to completely leave the EU, trade with the EU under WTO regulations and take control of their borders, meaning that it will be able to control the immigration which was not possible when they were part of the bloc. This type of Brexit is being favoured by a lot of people and even Politicians. While it will be beneficial in terms of trade for the UK, the goods exported to the EU would become the subject of tariff and checks on goods. The border security would also become the main concern for the UK especially with the Republic of Ireland, with whom they had a bad history of border posts and security checks. Though the May's administration has said that they will attempt to avoid the "borders of the past".
 
