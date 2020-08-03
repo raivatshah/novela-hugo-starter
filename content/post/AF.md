@@ -2,7 +2,7 @@
 authors = []
 date = 2017-06-09T18:30:00Z
 excerpt = ""
-hero = ""
+hero = "/images/africa-map-freedom-conflict-2.jpg"
 timeToRead = 10
 title = "Forgotten Conflicts of the African continent. A summary"
 
