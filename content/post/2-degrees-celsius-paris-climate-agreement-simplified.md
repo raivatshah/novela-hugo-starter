@@ -2,7 +2,7 @@
 authors = []
 date = 2017-06-11T18:30:00Z
 excerpt = ""
-hero = ""
+hero = "/images/48269.jpg"
 timeToRead = 0
 title = "2 Degrees Celsius; Paris Climate Agreement Simplified "
 
