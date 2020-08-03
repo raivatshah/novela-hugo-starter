@@ -6,3 +6,4 @@ seo:
   image: ''
 
 ---
+Simplifying Mainstream and not so mainstream news 
