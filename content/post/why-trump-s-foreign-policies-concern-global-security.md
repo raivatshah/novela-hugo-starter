@@ -2,7 +2,7 @@
 authors = []
 date = 2018-10-22T18:30:00Z
 excerpt = "With the increasing aggression from Russia to harsh policies towards it allies, the United States has increasingly begun to isolate itself from the world stage."
-hero = ""
+hero = "/images/5a174653-dfd3-48bf-a952-fe528717cf7c.jpg"
 timeToRead = 0
 title = "Why Trump’s Foreign policies concern global security?"
 
