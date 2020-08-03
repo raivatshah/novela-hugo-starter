@@ -2,7 +2,7 @@
 authors = []
 date = 2017-05-21T18:30:00Z
 excerpt = ""
-hero = ""
+hero = "/images/skynews-syria-ghouta-smoke_4281302.jpg"
 timeToRead = 0
 title = "The Syrian Conflict Simplified"
 
