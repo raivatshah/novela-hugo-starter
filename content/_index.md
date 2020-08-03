@@ -1,8 +1,8 @@
 ---
 hero:
-  heading: World News Simplified, Coming Soon!
+  heading: World News Simplified!
   maxWidthPX: "652"
 seo:
-  image: "/images/hero-2.jpg"
+  image: ''
 
 ---
