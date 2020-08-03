@@ -1,6 +1,6 @@
 +++
 authors = []
-date = ""
+date = 2019-01-28T18:30:00Z
 excerpt = ""
 hero = "/images/rutherford-atom.png"
 timeToRead = 0
